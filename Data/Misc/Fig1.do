@@ -1,4 +1,4 @@
-* Creating Figure 2 
+* Creating Figure 1
 
 import delimited "D:\OneDrive - Georgia State University\Documents\Dissertation\Essay 3\diss-essay-3\Data\Misc\HOA_summary_monthly_for_stata.csv", clear
 
